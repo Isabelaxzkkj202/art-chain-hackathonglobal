@@ -1,1 +1,9 @@
-# art-chain-hackathonglobal
+O Art-Chain-HackathonGlobal é uma plataforma voltada para artistas, designers, desenvolvedores criativos e pessoas que trabalham com criação digital, oferecendo um espaço para divulgar, vender e oferecer seus serviços.
+
+Na plataforma, artistas poderão publicar suas artes, como desenhos, pinturas, ilustrações e artes digitais, podendo vendê-las pelo preço que desejarem. Da mesma forma, pessoas que possuem habilidades em design, criação de sites, desenvolvimento visual, design de jogos e outras áreas criativas poderão divulgar seus trabalhos e oferecer serviços personalizados, como criar um site, desenvolver a identidade visual de uma página, elaborar o design de um jogo ou produzir outros projetos de acordo com o pedido do cliente.
+
+Cada profissional poderá definir o valor pelo seu trabalho, permitindo que os interessados encontrem serviços e produtos que atendam às suas necessidades. A plataforma também contará com uma área de conversa entre compradores e vendedores ou prestadores de serviços, possibilitando que o cliente explique como deseja sua arte, site, jogo ou outro projeto, tire dúvidas, combine detalhes e alinhe o resultado esperado antes de realizar a contratação ou compra.
+
+Além da venda e contratação de serviços, os usuários também poderão compartilhar vídeos e conteúdos ensinando técnicas e processos criativos passo a passo, ajudando outras pessoas a desenvolver suas habilidades em áreas como desenho, design, criação de sites, design de jogos e outras atividades relacionadas.
+
+Dessa forma, o Art-Chain-HackathonGlobal reúne em um único ambiente comércio de artes, contratação de serviços criativos, comunicação entre clientes e profissionais e conteúdos de aprendizado, permitindo que criadores divulguem seu trabalho e que outras pessoas encontrem, contratem ou aprendam com esses profissionais.
